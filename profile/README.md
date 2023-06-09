@@ -2,7 +2,6 @@
   IT-Go-mother
 </h1>
 
-![IT-Go-mother Logo](https://github.com/IT-Go-mother/it-go-mother.github.io/blob/main/assets/img/logo.png)
 
 Welcome to IT-Go-mother - an IT school for children, where we provide knowledge and skills in programming and game development. Our goal is to educate the younger generation in modern technologies, foster their creativity, and introduce them to the world of information technology.
 
