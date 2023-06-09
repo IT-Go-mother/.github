@@ -1,4 +1,6 @@
-# IT-Go-mother
+<h1 align="center">
+  IT-Go-mother
+</h1>
 
 ![IT-Go-mother Logo](https://github.com/IT-Go-mother/it-go-mother.github.io/blob/main/assets/img/logo.png)
 
@@ -13,7 +15,7 @@ Welcome to IT-Go-mother - an IT school for children, where we provide knowledge 
   <img src="https://img.shields.io/badge/Tool-HTML%2FCSS-red" alt="HTML/CSS">
 </p>
 
-## What We Offer
+## 🔥What We Offer
 
 - **Unity**: Our instructors will help you learn game development with Unity, from creating graphics and animations to programming gameplay.
 - **Python**: Learn one of the most popular programming languages in the world - Python. You'll write code, solve tasks, and create programs.
